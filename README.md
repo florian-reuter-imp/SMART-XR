@@ -15,8 +15,8 @@ manipulability, singularities. Robot models come from URDF, and the teaching
 content lives in JSON, separate from the application logic.
 
 Developed at the Institute of Materials and Processes (IMP), Karlsruhe
-University of Applied Sciences (HKA), with funding from the EU project
-**MASTER** (see [Acknowledgment](#acknowledgment)).
+University of Applied Sciences (HKA), funded through Open Call 2 of the EU
+project **MASTER** (see [Acknowledgment](#acknowledgment)).
 
 ## What it does
 
@@ -115,10 +115,11 @@ publication.
 
 ## Acknowledgment
 
-SMART-XR has received funding from the MASTER project ("Mixed reality
-ecosystem for teaching robotics in manufacturing") through its second open
-call. MASTER has received funding from the European Union's Horizon Europe
-research and innovation programme under grant agreement No 101093079.
+SMART-XR was awarded funding through **Open Call 2** of the MASTER project
+— *Mixed reality ecosystem for teaching robotics in manufacturing*,
+[master-xr.eu](https://master-xr.eu/). MASTER has received funding from the
+European Union's Horizon Europe research and innovation programme under grant
+agreement No 101093079.
 
 Funded by the European Union. Views and opinions expressed are however those
 of the author(s) only and do not necessarily reflect those of the European
