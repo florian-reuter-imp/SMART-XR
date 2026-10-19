@@ -115,16 +115,20 @@ publication.
 
 ## Acknowledgment
 
+<img src="eu-emblem.svg" alt="European Union emblem" height="60">
+
+**Funded by the European Union.**
+
 SMART-XR was awarded funding through **Open Call 2** of the MASTER project
 — *Mixed reality ecosystem for teaching robotics in manufacturing*,
 [master-xr.eu](https://master-xr.eu/). MASTER has received funding from the
 European Union's Horizon Europe research and innovation programme under grant
 agreement No 101093079.
 
-Funded by the European Union. Views and opinions expressed are however those
-of the author(s) only and do not necessarily reflect those of the European
-Union or the European Commission. Neither the European Union nor the granting
-authority can be held responsible for them.
+Views and opinions expressed are however those of the author(s) only and do
+not necessarily reflect those of the European Union or the European
+Commission. Neither the European Union nor the granting authority can be held
+responsible for them.
 
 ## Licence
 
