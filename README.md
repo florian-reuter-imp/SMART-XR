@@ -117,7 +117,7 @@ publication.
 
 <img src="eu-emblem.svg" alt="European Union emblem" height="60">
 
-**Funded by the European Union.**
+**Co-funded by the European Union.**
 
 SMART-XR was awarded funding through **Open Call 2** of the MASTER project
 — *Mixed reality ecosystem for teaching robotics in manufacturing*,
